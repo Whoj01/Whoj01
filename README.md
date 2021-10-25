@@ -1,7 +1,5 @@
 ### Hi there, I'm Josué Dias 👋
 
-
-
 - 🔭 I’m not working yet 
 - 🌱 I’m currently learning javaScript and React.
 - 👯 I’m looking to collaborate on open Sources Projects
