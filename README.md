@@ -15,7 +15,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josueneto.camargo@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jd_netoo/)
 
-![Josué github stats](https://github-readme-stats.vercel.app/api?username=Whoj01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whoj01&theme=dracula&layout=compact)
+![Josué github stats](https://github-readme-stats.vercel.app/api?username=Whoj01&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whoj01&theme=dracula&layout=compact)
+
 
 
