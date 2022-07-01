@@ -1,10 +1,10 @@
 ### Hi there, I'm Josué Dias 👋
 
 - 🔭 I’m not working yet 
-- 🌱 I’m currently learning javaScript and React.
+- 🌱 I’m currently learning Laravel and Vue.
 - 👯 I’m looking to collaborate on open Sources Projects
-- 🤔 I’m looking for help with [React Native]
-- 💬 Ask me about [Git, CSS, Js]
+- 🤔 I’m looking for help with [PHP]
+- 💬 Ask me about [Git, CSS, Js, Vue]
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I love LoTR, but I haven't read a book from the series.
 - 📬 Contact
