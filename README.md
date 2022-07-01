@@ -1,6 +1,6 @@
 ### Hi there, I'm Josué Dias 👋
 
-- 🔭 I’m not working yet 
+- 🔭 I’m working at @sg2Sistemas
 - 🌱 I’m currently learning Laravel and Vue.
 - 👯 I’m looking to collaborate on open Sources Projects
 - 🤔 I’m looking for help with [PHP]
