@@ -1,11 +1,9 @@
 ### Hi there, I'm Josué Dias 👋
 
 - 🔭 I’m working at @sg2Sistemas
-- 🌱 I’m currently learning Laravel and Vue.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on open Sources Projects
-- 🤔 I’m looking for help with [PHP]
-- 💬 Ask me about [Git, CSS, Js, Vue]
-- 😄 Pronouns: Him/His
+- 💬 Ask me about [Git, CSS, Js, React]
 - ⚡ Fun fact: I love LoTR, but I haven't read a book from the series.
 - 📬 Contact
 
