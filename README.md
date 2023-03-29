@@ -13,7 +13,6 @@
 
 
 
-![Josué github stats](https://github-readme-stats.vercel.app/api?username=Whoj01&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whoj01&theme=dracula&layout=compact)
-
+![Josué github stats](https://github-readme-stats.vercel.app/api?username=Whoj01&show_icons=true&theme=radical) 
 
 
