@@ -11,6 +11,10 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josueneto.camargo@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jd_netoo/)
 
+<div class="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whoj01&theme=dark)](https://git.io/streak-stats)
+</div>
+
 
 
 
