@@ -1,6 +1,6 @@
 ### Oi, Sou Josué Dias 👋
 
-Sou Josué Dias, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [sg2 Sistemas](https://sg2sistemas.com.br) como Fullstack Junior Dev.
+Sou Josué Dias, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [Shop My Feed](https://www.linkedin.com/company/shopmyfeed/posts/?feedView=all) como Fullstack Pleno.
 
 - 👨🏽‍💻 Criando sempre um novo projeto 🚀;
 - 🌱 Estou sempre aprendendo mais sobre ReactJS e React Native ⚛️;
