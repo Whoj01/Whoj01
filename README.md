@@ -1,6 +1,6 @@
 ### Oi, Sou Josué Dias 👋
 
-Sou Josué Dias, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na [Bean Softwares](https://www.linkedin.com/company/bean-softwares/mycompany/) como Fullstack Pleno.
+Sou Josué Dias, Javascript/Typescript Developer 🚀, apaixonado por tecnologia. Atualmente trabalho na DNA financeiro como Fullstack Pleno.
 
 - 👨🏽‍💻 Criando sempre um novo projeto 🚀;
 - 🌱 Estou sempre aprendendo mais sobre ReactJS e React Native ⚛️;
